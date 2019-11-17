@@ -1,12 +1,13 @@
 {
-    "posts": [{
+    "posts": [
+        {
         "id": 1,
         "title": "Wandering Far and Unfettered",
         "author": "Zhuangzi",
         "date": "4.20.12",
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Peng Kun", "The Useless Tree", "Northern Oblivion", "Pool of Heaven"],
-        "categories": ["Inner Chapters", "Chapter 1", "Zhuangzi", "Daoism", "sagacity"],
+        "chapter": "ch1",
         "prev": "",
         "next": "2"
     }, {
@@ -16,7 +17,7 @@
         "date": "7.27.96",
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Wet Ashes", "Hollows", "Piping of Heaven", "Piping of Earth", "Dream"],
-        "categories": ["Inner Chapters", "Chapter 2", "Zhuangzi", "Daoism", "Oneness"],
+        "chapter": "ch2",
         "prev": "1",
         "next": "3"
     }, {
@@ -26,7 +27,7 @@
         "date": "2.25.03",
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["flow of life", "Heaven's Unwrought Perforations", "Lao Dan"],
-        "categories": ["Inner Chapters", "Chapter 3", "Zhuangzi", "Daoism", "Nourishing Life"],
+        "chapter": "ch3",
         "prev": "2",
         "next": "4"
     }, {
@@ -36,7 +37,7 @@
         "date": "12.01.01",
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["zhuangzi", "useless tree", "daoism"],
-        "categories": ["Inner Chapters", "Chapter 4", "Zhuangzi", "Daoism", "Useless Tree", "Confuscious"],
+        "chapter": "ch4",
         "prev": "3",
         "next": "5"
     }, {
@@ -46,7 +47,7 @@
         "date": "7.27.96",
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Daoism", "Confucius", "Virtuosity", "Internal", "External"],
-        "categories": ["Inner Chapters", "Chapter 5", "Zhuangzi", "Daoism", "Virtuosity"],
+        "chapter": "ch5",
         "prev": "4",
         "next": "6"
     }, {
@@ -56,7 +57,7 @@
         "date": "7.27.96",
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Daoism", "Confucius", "Mind as Teacher", "Genuine Human Being"],
-        "categories": ["Inner Chapters", "Chapter 6", "Zhuangzi", "Daoism", "Mind as Teacher"],
+        "chapter": "ch6",
         "prev": "5",
         "next": "7"
     }, {
@@ -66,8 +67,9 @@
         "date": "05.20.10",
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Daoism", "Confucius", "Lao Dan", "Liezi"],
-        "categories": ["Inner Chapters", "Chapter 7", "Zhuangzi", "Daoism", "Mind as Teacher"],
+        "chapter": "ch7",
         "prev": "6",
         "next": ""
-    }]
+    }
+]
 }
