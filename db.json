@@ -8,6 +8,7 @@
         "content": "IN THE NORTHERN DARKNESS there is a fish and his name is K'un.1 The K'un is so huge I don't know how many thousand li he measures. He changes and becomes a bird whose name is P'eng. The back of the P'eng measures I don't know how many thousand li across and, when he rises up and flies off, his wings are like clouds all over the sky. When the sea begins to move,2 this bird sets off for the southern darkness, which is the Lake of Heaven.\n ",
         "keywords": ["Zhuangzi", "Peng Kun", "The Useless Tree", "Northern Oblivion", "Pool of Heaven"],
         "chapter": "ch1",
+            "all": "true",
         "prev": null,
         "next": 2
     }, {
@@ -18,6 +19,7 @@
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Wet Ashes", "Hollows", "Piping of Heaven", "Piping of Earth", "Dream"],
         "chapter": "ch2",
+        "all": "true",
         "prev": 1,
         "next": 3
     }, {
@@ -38,6 +40,7 @@
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["zhuangzi", "useless tree", "daoism"],
         "chapter": "ch4",
+        "all": "true",
         "prev": 3,
         "next": 5
     }, {
@@ -48,6 +51,7 @@
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Daoism", "Confucius", "Virtuosity", "Internal", "External"],
         "chapter": "ch5",
+        "all": "true",
         "prev": 4,
         "next": 6
     }, {
@@ -58,6 +62,7 @@
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Daoism", "Confucius", "Mind as Teacher", "Genuine Human Being"],
         "chapter": "ch6",
+        "all": "true",
         "prev": 5,
         "next": 7
     }, {
@@ -68,6 +73,7 @@
         "content": "Morbi sollicitudin ac velit sit amet vulputate. Nunc nec nisl auctor, ullamcorper eros eu, blandit quam. Nam iaculis, \n odio sed sodales lobortis, enim eros porttitor dolor, eget maximus nibh arcu ac felis. Etiam sed egestas ipsum. Morbi facilisis, \n nunc a consequat porta, nisl enim ullamcorper diam, ut tincidunt ex velit quis justo. Nulla id tempor ipsum, sed vehicula purus. \n Donec vehicula dui vel nisi vulputate, quis consectetur neque dictum. Maecenas imperdiet dolor eu libero facilisis faucibus. \n Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis dolor porta, commodo augue hendrerit, accumsan risus. \n Sed ut est sed lorem blandit venenatis. Aenean tristique, nisi eu interdum tempor, ante turpis aliquam risus, ac pharetra tellus tellus eget tellus.\n ",
         "keywords": ["Zhuangzi", "Daoism", "Confucius", "Lao Dan", "Liezi"],
         "chapter": "ch7",
+        "all": "true",
         "prev": 7,
         "next": null
     }
